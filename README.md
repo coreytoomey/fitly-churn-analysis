@@ -28,13 +28,9 @@ This project analyzes customer churn for Fit.Ly, a fictional fitness app used in
 - Data storytelling & executive communication
 
 📄 Included in This Repository
-- notebook.ipynb — Full analysis and visualizations
+- notebook.pdf — Full analysis and visualizations
 
-- fitly_churn_report.pdf — Technical written report
-
-- fitly_slides.pdf — Executive presentation (optional)
-
-- images/ — Exported charts used in the report
+- fitly_slides.pdf — Executive presentation
 
 📈 Key Insight (Spoiler)
 
