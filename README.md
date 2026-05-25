@@ -32,6 +32,8 @@ This project analyzes customer churn for Fit.Ly, a fictional fitness app used in
 
 - fitly_slides.pdf — Executive presentation
 
+- fitly.ipynb - Jupyter notebook containing the full Python code
+
 📈 Key Insight (Spoiler)
 
 Churn was primarily driven by slow customer support resolution times, especially during predictable high‑volume windows. Improving support efficiency could significantly reduce churn among passive and at‑risk users.
